@@ -1,2 +1,2 @@
-name = raw_input("Enter your name")
+name = raw_input("Enter your e")
 print "Hello " + name
